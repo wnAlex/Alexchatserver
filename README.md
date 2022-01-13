@@ -1,0 +1,2 @@
+# Alexchatserver
+基于nginx负载均衡的聊天服务器和客户端
